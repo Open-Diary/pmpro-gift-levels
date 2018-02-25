@@ -1,0 +1,14 @@
+{
+	"name": "Open-Diary/pmpro-gift-levels",
+	"description": "Setup some PMPro levels to allow for the purchase of gift certificates. A discount code for a \"real\" level is generated when checking out for the gift level.",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0+",
+	"version": "1.0",
+	"authors": [
+		{
+			"name": "Mike Auteri",
+			"email": "mauteri@gmail.com"
+		}
+	],
+	"require": {}
+}
